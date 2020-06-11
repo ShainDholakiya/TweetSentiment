@@ -17,7 +17,7 @@ TweetSentiment is a tweet sentiment analysis app where you can input any twitter
 
 
 ### My way of analyzing the sentiment score for each tweet 
-`
+```
 
 if sentiment == "Pos" {
     sentimentScore += 1
@@ -42,4 +42,4 @@ if sentimentScore > 20 {
     self.sentimentLabel.text = "🤮"
 }
 
- `
+```
