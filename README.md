@@ -1,8 +1,8 @@
-#  TwitterSentiment
+#  TweetSentiment
 
 ## Description
 
-Twittermenti is a tweet sentiment analysis app where you can input any twitter profile, name, or hastag and it will generate a score from the past 100 tweets to see how people are reacting to this certain topic on Twitter. It uses CoreML to predict the sentiment score of a tweet. 
+TweetSentiment is a tweet sentiment analysis app where you can input any twitter profile, name, or hastag and it will generate a score from the past 100 tweets to see how people are reacting to this certain topic on Twitter. It uses CoreML to predict the sentiment score of a tweet. 
 
 ## What I learned
 
