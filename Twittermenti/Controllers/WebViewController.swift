@@ -13,8 +13,6 @@ class WebViewController: UIViewController {
     
     @IBOutlet weak var tweetWebView: WKWebView!
     
-//    var tweetsData: [Tweet = []
-    
     var selectedTweet = Tweet(tweetText: "", tweetURL: "")
 
     override func viewDidLoad() {
