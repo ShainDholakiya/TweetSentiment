@@ -16,7 +16,7 @@ TweetSentiment is a tweet sentiment analysis app where you can input any twitter
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 
 
-### My way of analyzing the sentiment score for each tweet 
+## My way of analyzing the sentiment score for each tweet 
 ```
 
 if sentiment == "Pos" {
